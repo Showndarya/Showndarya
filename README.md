@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ![counter](https://eng64hrnquaxti9.m.pipedream.net)
 
 I am a 2019 computer engineering graduate currently working as an Associate Consultant in Microsoft, India 😄
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=showndarya&show_icons=true&theme=dracula&count_private=true)
-
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dracula)
-
-![counter](https://eng64hrnquaxti9.m.pipedream.net)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=showndarya&show_icons=true&theme=dracula&count_private=true) 
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dracula)
 <!--
 **Showndarya/Showndarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
