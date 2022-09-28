@@ -1,6 +1,6 @@
 ### Hi there 👋 ![counter](https://eng64hrnquaxti9.m.pipedream.net)
 
-I am a 2019 computer engineering graduate currently working as an Associate Consultant in Microsoft, India 😄
+I am currently a CS Graduate at Boston University Graduate School of Arts and Sciences 😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=showndarya&show_icons=true&theme=dracula&count_private=true) ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=dracula)
 <!--
