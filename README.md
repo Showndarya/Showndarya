@@ -2,7 +2,7 @@
 
 I am currently a CS Graduate at Boston University Graduate School of Arts and Sciences 😄
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=showndarya&show_icons=true&theme=dracula&count_private=true) ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=showndarya&langs_count=6&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=showndarya&show_icons=true&theme=dracula&count_private=true) ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=showndarya&langs_count=10&theme=dracula)
 <!--
 **Showndarya/Showndarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
